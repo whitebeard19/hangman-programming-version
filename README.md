@@ -17,7 +17,7 @@ When you run out of options, you’re left with **Assembly**... and that’s **G
 ---
 
 ## 📸 Screenshots
-![Game Screenshot](screenshot.png)
+![Game Screenshot](/src/images/image.png)
 
 ---
 
