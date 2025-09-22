@@ -1,12 +1,37 @@
-# React + Vite
+# Assembly: Endgame 🎮💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A programming-themed twist on the classic **Hangman** game.  
+Guess the hidden word within 8 attempts to keep the programming world safe!  
+Each wrong guess eliminates a programming language from your arsenal.  
+When you run out of options, you’re left with **Assembly**... and that’s **Game Over**! ⚔️  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🎯 **Programming Hangman**: Guess from 400+ programming-themed words.
+- 🖥️ **Language Lives System**: Lose a language (HTML, CSS, JS, etc.) with every wrong guess.
+- 🕹️ **Game Over**: When you reach Assembly, it’s all over.
+- 🌐 **Tech Vocabulary**: Includes languages, frameworks, databases, tools, devops, AI/ML, and more.
+- ⚡ **Fast & Fun**: Simple design with an engaging coding twist.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+![Game Screenshot](screenshot.png)
+
+---
+
+## 📦 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/assembly-endgame.git
+   cd assembly-endgame
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+3. Start the project
+    ```bash
+    npm start
